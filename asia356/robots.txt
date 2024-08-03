@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sitemap.chrisg.rocks/asia356/sitemap.xml
